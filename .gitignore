@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models
+data/
+datasets/
+*.csv
+*.parquet
+*.feather
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+# Experiment tracking
+outputs/
+results/
+mlruns/
+wandb/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+
+# IDE
+.vscode/
+.idea/
