@@ -2,7 +2,7 @@
 
 Repositório para a comunidade interessada em Inteligência Artificial. A ideia surgiu da necessidade de transformar estudo em prática real. Sinta-se a vontade para cooperar ou até participar do grupo no WhatsApp: 
 
-> [IBM WatsonX](https://chat.whatsapp.com/1c6a5N4PQLZ3BhCiUNLT8u)
+> [IBM WatsonX](https://chat.whatsapp.com/DKhZhuHhgqk5xA1xKvi3Lo)
 
 Aqui, iniciantes podem aprender e praticar, enquanto membros mais experientes podem contribuir com projetos, ideias e apoio à comunidade.
 
