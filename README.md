@@ -1,108 +1,82 @@
-# Watsonx AI Projects – Projetos Práticos de IA
+# watsonx-ai-projects
 
-Repositório para a comunidade interessada em Inteligência Artificial. A ideia surgiu da necessidade de transformar estudo em prática real. Sinta-se a vontade para cooperar ou até participar do grupo no WhatsApp: 
+Repositório open-source focado em arquitetura, governança e aplicações reais de Inteligência Artificial em ambientes enterprise, inspirado no ecossistema Watsonx.
+Sinta-se a vontade para cooperar ou até participar do grupo no WhatsApp: 
 
 > [IBM WatsonX](https://chat.whatsapp.com/DKhZhuHhgqk5xA1xKvi3Lo)
-
-Aqui, iniciantes podem aprender e praticar, enquanto membros mais experientes podem contribuir com projetos, ideias e apoio à comunidade.
 
 ---
 
 ## Overview
 
-Este repositório reúne **projetos práticos de Inteligência Artificial** desenvolvidos pela comunidade.
+Este repositório reúne projetos práticos e arquiteturas de IA voltadas para cenários reais.
 
-Muitos membros já estudam IA, fazem cursos e acompanham conteúdos da área.  
-O objetivo é ajudar a dar **o próximo passo: prática, colaboração e portfólio.**
-
-Aqui você encontrará:
-
-- projetos práticos de IA
-- exemplos de aplicações com ML, NLP e LLMs
-- experimentos com dados reais
-- projetos da comunidade
-
-A ideia é que todos possam **aprender, praticar e contribuir**.
+O foco não é apenas aprendizado, mas sim:
+- construção de soluções aplicáveis
+- discussão técnica
+- compartilhamento de experiências reais
 
 ---
 
-## Objetivo
+## Foco
 
-Criar um espaço colaborativo onde membros da comunidade possam:
-
-* praticar conceitos de Inteligência Artificial
-* desenvolver projetos reais
-* aprender a documentar soluções
-* construir portfólio técnico
+- Arquitetura de sistemas de IA
+- Governança de modelos e prompts
+- Observabilidade e monitoramento
+- Pipelines de ML e LLMOps
+- Aplicações reais em ambiente enterprise
+- Integração com Watsonx e ferramentas relacionadas
 
 ---
 
-## Projetos da Comunidade
+## Core Projects
 
-Projetos desenvolvidos pelos membros.
+Este repositório possui projetos de referência (flagship projects) que definem padrões de arquitetura e boas práticas.
 
-Aqui estarão links para os autores e contribuições da comunidade.
+Esses projetos servem como base para:
+- novas contribuições
+- discussões técnicas
+- evolução da comunidade
 
 ---
 
 ## Estrutura do repositório
 
+
 ```
 watsonx-ai-projects/
 
-  README.md
-  .gitignore
-  LICENSE
-  CONTRIBUTING.md
+  README.md            
+  LICENSE              
+  CONTRIBUTING.md      # regras e diretrizes de contribuição (sem virar suporte)
 
-  beginner/
-      spam-classifier/
-      
-  intermediate/
+  core/                # núcleo estratégico do repositório
+    flagship-projects/ # projetos principais (arquiteturas de referência)
+
+  architecture/        # padrões e exemplos de arquitetura de sistemas de IA
+  governance/          # práticas de governança (monitoramento, auditoria, controle)
+  use-cases/           # aplicações reais (chatbots, RAG, recomendação, etc)
+  watsonx/             # integrações, exemplos e experimentos com Watsonx
+
+  community/           # contribuições da comunidade (projetos, ideias, variações)
   
-  advanced/
-
-  datasets/
-  templates/
-
-  community-projects/
-      exemplo-projeto-1/
-       README.md
-
-    exemplo-projeto-2/
-      README.md
 ```
 
 ---
 
-### Trilhas
+## Contribuição
 
-- Beginner  
-- Intermediate  
-- Advanced  
+Contribuições são bem-vindas, desde que alinhadas com o foco do repositório.
 
-Cada pasta contém projetos com instruções e exemplos.
-
----
-
-## Como contribuir
-
-Você pode contribuir de várias formas:
-
-- sugerindo novos projetos
-- melhorando documentação
-- adicionando exemplos
-- compartilhando um projeto próprio
-
-Abra uma **issue** ou envie um **pull request**.
+Para novos projetos, recomenda-se abrir uma issue antes de iniciar.
 
 ---
 
 ## Ideia
 
-Este repositório tem como objetivo resgatar o espírito de:
+Este repositório busca resgatar o espírito de:
+- troca de conhecimento real
+- discussão técnica de alto nível
+- construção de soluções práticas
 
-- troca de conhecimento real  
-- ajuda entre membros  
-- construção prática  
 

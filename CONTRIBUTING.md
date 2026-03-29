@@ -1,33 +1,46 @@
-# Contributing to Watsonx AI Projects
+# Contributing to watsonx-ai-projects
 
+Obrigado por considerar contribuir.
 
-## Como contribuir
+---
 
-Você pode contribuir com:
-- novos projetos
+## Direção do repositório
+
+Este repositório foca em:
+- arquitetura de IA
+- governança
+- aplicações reais em ambientes enterprise
+
+Contribuições devem estar alinhadas com esses objetivos.
+
+---
+
+## Tipos de contribuição
+
+- projetos alinhados com arquitetura e governança
 - melhorias em projetos existentes
-- documentação
-- correções de bugs
-- ideias
+- documentação técnica relevante
+- discussões estruturadas
 
-## Passos
+---
 
-1. Faça um fork do repositório
-2. Crie uma branch:
-   - feat/nome-do-projeto
-   - fix/nome-do-bug
-   - docs/melhoria
-3. Faça commit das mudanças
-4. Abra um Pull Request
+## Propostas
 
-## Regras
+Para novos projetos, recomenda-se abrir uma issue antes de iniciar.
 
-- Cada projeto deve ter sua própria pasta
-- Todo projeto deve conter:
-  - README.md
-  - requirements.txt
-- Código deve ser claro e organizado
-- Evitar subir datasets grandes
+---
 
+## Pull Requests
 
-Projetos da comunidade podem ser adicionados na pasta community-projects.
+Pull Requests podem não ser revisados ou aceitos caso não estejam alinhados com a proposta do repositório.
+
+Nem todas as contribuições receberão feedback individual.
+
+---
+
+## Regras básicas
+
+- cada projeto deve ter sua própria estrutura
+- incluir README.md claro
+- evitar conteúdo superficial ou genérico
+- priorizar qualidade sobre quantidade
