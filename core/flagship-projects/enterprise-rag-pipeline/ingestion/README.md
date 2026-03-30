@@ -1,6 +1,6 @@
 # Ingestion
 
-Responsável por entrada de dados no sistema.
+Responsável pela entrada de dados no sistema.
 
 ## Possíveis fontes
 
