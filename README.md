@@ -1,7 +1,7 @@
 # watsonx-ai-projects
 
 Repositório open-source focado em arquitetura, governança e aplicações reais de Inteligência Artificial em ambientes enterprise, inspirado no ecossistema Watsonx.
-Sinta-se a vontade para cooperar ou até participar do grupo no WhatsApp: 
+Sinta-se à vontade para cooperar ou até participar do grupo no WhatsApp: 
 
 > [IBM WatsonX](https://chat.whatsapp.com/DKhZhuHhgqk5xA1xKvi3Lo)
 
