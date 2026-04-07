@@ -6,6 +6,14 @@ Sinta-se à vontade para cooperar ou até participar do grupo no WhatsApp:
 > [IBM WatsonX](https://chat.whatsapp.com/DKhZhuHhgqk5xA1xKvi3Lo)
 
 ---
+---
+
+## Important Note
+
+The content of this repository is currently in Portuguese to make it easier for beginners starting with GitHub projects. In the future, the README.md files will be available in English.
+
+---
+---
 
 ## Overview
 
