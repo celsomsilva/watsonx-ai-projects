@@ -29,6 +29,28 @@ O foco não é apenas aprendizado, mas sim:
 
 ---
 
+
+## Community
+
+Esta seção contém contribuições da comunidade. O contribuidor se quiser também referenciar projetos que ele fez no seu próprio perfil no gitHub será referenciado no README desta seção (projetos que têm como assunto o tema deste repositório).
+
+### Conteúdo
+
+- projetos independentes
+- variações de arquiteturas
+- experimentos
+- ideias
+
+### Objetivo
+
+Permitir que membros compartilhem soluções e explorações relacionadas ao tema do repositório.
+
+### Observação
+
+Contribuições nesta seção não precisam seguir exatamente os padrões dos projetos core, mas devem manter qualidade e clareza.
+
+---
+
 ## Core Projects
 
 Este repositório possui projetos de referência (flagship projects) que definem padrões de arquitetura e boas práticas.
